@@ -1,0 +1,192 @@
+[
+    {
+      "id": 1,
+      "chef_picture": "https://cosmosgroup.sgp1.cdn.digitaloceanspaces.com/news/6811407_Kishwar%20Chowdhury%20masterc%20hef%20australia.jpg",
+      "chef_name": "Abida Sultana",
+      "years_of_experience": 12,
+      "num_recipes": 65,
+      "likes": 250,
+      "description": "Abida Sultana is a renowned Bangladeshi chef with over 12 years of experience in the industry. She is known for her expertise in traditional Bangladeshi cuisine and has been featured in numerous cooking shows and publications. Her recipes are loved for their rich flavors and unique spice blends.",
+      "recipe_info": {           
+        "recipe_name": "Rice with Fish Curry",
+        "ingredients": [
+          "1 cup of Basmati rice",
+          "1 lb of fresh fish, cut into pieces",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "1 tablespoon of turmeric powder",
+          "1 tablespoon of chili powder",
+          "Salt to taste",
+          "Water as needed",
+          "1/4 cup of vegetable oil"
+      ],
+        "cooking_method": "1. Rinse the rice and soak for 30 minutes. Drain and set aside.\n2. Heat the oil in a pan over medium heat and fry the onions and garlic until golden brown.\n3. Add the turmeric powder, chili powder, and salt to taste, then stir for a minute.\n4. Add the fish and cook for 3-4 minutes.\n5. Add enough water to cover the fish and let it cook for 5-6 minutes or until the fish is cooked through.\n6. In a separate pot, boil 2 cups of water and add the rice. Cook for about 18 minutes or until the rice is fully cooked.\n7. Serve the rice with the fish curry on top.",
+        "rating": 4.5    
+      } 
+    },
+    {
+      "id": 2,
+      "chef_picture": "https://iexaminer.org/wp-content/uploads/2019/03/Uddin-2-web.jpg",
+      "chef_name": "Kabir Ahmed",
+      "years_of_experience": 8,
+      "num_recipes": 40,
+      "likes": 150,
+      "description": "Kabir Ahmed is a young and talented Bangladeshi chef with 8 years of experience. He is passionate about using fresh and local ingredients in his dishes and creating innovative flavor combinations. His recipes are known for their bold and vibrant flavors.",
+      "recipe_info":{
+        "recipe_name": "Chicken Bhuna",
+        "ingredients": [
+          "1 lb chicken, cut into pieces",
+          "1 onion, chopped",
+          "2 garlic cloves, minced",
+          "1 tablespoon of ginger paste",
+          "1 tablespoon of coriander powder",
+          "1 tablespoon of cumin powder",
+          "1 tablespoon of chili powder",
+          "1/2 teaspoon of turmeric powder",
+          "Salt to taste",
+          "3 tablespoons of vegetable oil",
+          "1/2 cup of water"
+        ],
+        "cooking_method": "1. Heat the oil in a pan over medium heat and fry the onions and garlic until golden brown.\n2. Add the chicken and cook for 5-6 minutes or until browned.\n3. Add the ginger paste, coriander powder, cumin powder, chili powder, turmeric powder, and salt to taste. Mix well.\n4. Add 1/2 cup of water and bring to a boil. Then reduce heat to low and let it simmer for 15-20 minutes or until the chicken is fully cooked.\n5. Serve hot with rice or naan.",
+        "rating": 4.8
+    }  
+    },
+    {
+      "id": 3,
+      "chef_picture": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*aUKjAqD0oJpT5ZI_Ka0I6A.png",
+      "chef_name": "Sonia Akhter",
+      "years_of_experience": 10,
+      "num_recipes": 50,
+      "likes": 200,
+      "description": "Sonia Akhter is a versatile Bangladeshi chef with 10 years of experience. She specializes in fusion cuisine and loves to experiment with different ingredients and flavors. Her recipes are a blend of traditional Bangladeshi cuisine with international influences.",
+      "recipe_info":{
+        "recipe_name": "Shrimp Malai Curry",
+         "ingredients": [
+             "1 lb shrimp, peeled and deveined",
+             "1 onion, chopped",
+             "2 garlic cloves, minced",
+             "1 tablespoon of ginger paste",
+             "1 tablespoon of cumin powder",
+             "1 tablespoon of coriander powder",
+             "1 tablespoon of turmeric powder",
+             "1/2 cup of coconut milk",
+             "1/2 cup of water",
+             "Salt to taste",
+             "3 tablespoons of vegetable oil"
+           ],
+         "cooking_method": "1. Heat the oil in a pan over medium heat and fry the onions and garlic until golden brown.\n2. Add the ginger paste, cumin powder, coriander powder, turmeric powder, and salt to taste. Mix well.\n3. Add the shrimp and cook for 2-3 minutes or until pink.\n4. Add the coconut milk and water. Bring to a boil, then reduce heat to low and let",
+         "rating": 4.6
+     } 
+    },
+    {
+      "id": 4,
+      "chef_picture": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/feature/images/chef_7.jpg?itok=Td32X3z_&timestamp=1493916294",
+      "chef_name": "Rahim Uddin",
+      "years_of_experience": 15,
+      "num_recipes": 80,
+      "likes": 300,
+      "description": "Rahim Uddin is a veteran Bangladeshi chef with 15 years of experience in the culinary world. He is an expert in traditional Bangladeshi cuisine and has been recognized for his contributions to the industry. His recipes are known for their authentic flavors and traditional cooking techniques.",
+      "recipe_info":{
+        "recipe_name": "Beef Bhuna",
+        "ingredients": [
+        "500g beef, cut into cubes",
+        "2 onions, sliced",
+        "2 tomatoes, chopped",
+        "3 cloves garlic, minced",
+        "1 inch ginger, grated",
+        "1 teaspoon cumin powder",
+        "1 teaspoon coriander powder",
+        "1 teaspoon turmeric powder",
+        "1 teaspoon chili powder",
+        "1/4 cup oil",
+        "Salt to taste"
+      ],
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown. Add the garlic and ginger and fry for a minute. Add the beef and cook until it changes color. \n2. Add the tomatoes, cumin powder, coriander powder, turmeric powder, chili powder and salt. Mix well and cook until the tomatoes are soft and the beef is tender. \n3. Serve hot with rice or roti.",
+        "rating": 4.5
+    } 
+    },
+    {
+      "id": 5,
+      "chef_picture": "https://media.istockphoto.com/id/1095955156/photo/female-chef-against-national-flag-of-bangladesh.jpg?s=612x612&w=is&k=20&c=upnodLFZawdHRlFy9Eycg0orpX14WXSk_GcvU6EPVqM=",
+      "chef_name": "Nasreen Ahmed",
+      "years_of_experience": 5,
+      "num_recipes": 20,
+      "likes": 100,
+      "description": "Nasreen Ahmed is a young and dynamic Bangladeshi chef with 5 years of experience. She specializes in vegetarian cuisine and loves to experiment with different ingredients and cooking techniques. Her recipes are known for their healthy and nutritious qualities.",
+      "recipe_info":{
+        "recipe_name": "Chingri Malai Curry",
+        "ingredients": [
+        "500g prawns, cleaned and deveined",
+        "2 onions, sliced",
+        "2 green chilies, slit",
+        "1 teaspoon ginger paste",
+        "1 teaspoon garlic paste",
+        "1/2 teaspoon turmeric powder",
+        "1 cup coconut milk",
+        "1/4 cup oil",
+        "Salt to taste"
+      ],
+        "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown. Add the ginger and garlic paste and fry for a minute. Add the prawns, turmeric powder and salt. Fry until the prawns turn pink. \n2. Add the coconut milk and green chilies. Cook for 5-7 minutes until the gravy thickens. \n3. Serve hot with rice.",
+        "rating": 4.2
+    } 
+    },
+    {
+      "id": 6,
+      "chef_picture": "https://media.licdn.com/dms/image/C5603AQGLluqwuKFG9g/profile-displayphoto-shrink_800_800/0/1642929855353?e=2147483647&v=beta&t=GpBjvpRaF-8LcIrNfILexr5GuiqfLfFjbc1lECCmf6k",
+      "chef_name": "Faisal Mahmud",
+      "years_of_experience": 7,
+      "num_recipes": 30,
+      "likes": 120,
+      "description": "Faisal Mahmud is a rising star in the Bangladeshi culinary scene with 7 years of experience. He specializes in seafood and loves to use fresh and locally sourced ingredients in his dishes. His recipes are known for their exquisite presentation and unique flavor combinations.",
+      "recipe_info":{
+        "recipe_name": "Lau Ghonto",
+        "ingredients": [
+            "1 bottle gourd, peeled and chopped",
+            "1 potato, peeled and chopped",
+            "1 onion, chopped",
+            "2 green chilies, slit",
+            "1 teaspoon cumin seeds",
+            "1/2 teaspoon turmeric powder",
+            "1/2 teaspoon coriander powder",
+            "1/4 teaspoon cumin powder",
+            "1/4 teaspoon chili powder",
+            "2 tablespoons oil",
+            "Salt to taste"
+          ],
+        "cooking_method": "1. Heat oil in a pan and add the cumin seeds. Fry until fragrant. Add the onions and green chilies and fry until the onions are translucent. \n2. Add the bottle gourd, potato, turmeric powder, coriander powder, cumin powder, chili powder and salt. Mix well and cover the pan. Cook for 15-20 minutes or until the vegetables are soft. \n3. Serve hot with rice.",
+        "rating": 4.1
+    } 
+    },
+    {
+      "id": 7,
+      "chef_picture": "https://chefclubdhakahome.files.wordpress.com/2020/08/img_20200809_19244519702735.jpg",
+      "chef_name": "Faisal Hossain",
+      "years_of_experience": 7,
+      "num_recipes": 30,
+      "likes": 120,
+      "description": "Faisal Hossain is a rising star in the Bangladeshi culinary scene with 7 years of experience. He specializes in seafood and loves to use fresh and locally sourced ingredients in his dishes. His recipes are known for their exquisite presentation and unique flavor combinations.",
+      "recipe_info":{
+        "recipe_name": "Biryani",    
+        "ingredients": [      
+            "1 kg basmati rice",      
+            "1 kg chicken, cut into pieces",     
+            "2 cups yogurt",      
+            "2 cups fried onions",     
+            "2 tsp ginger paste",      
+            "2 tsp garlic paste",      
+            "4 cardamom pods",      
+            "4 cloves",      
+            "1 cinnamon stick",      
+            "4 bay leaves",      
+            "2 tsp cumin powder",      
+            "2 tsp coriander powder",     
+            "2 tsp garam masala",      
+            "1 tsp turmeric powder",      
+            "Salt to taste"    
+            ],
+        "cooking_method": "Marinate the chicken with yogurt, ginger paste, garlic paste, and salt for at least an hour. Fry the onions until golden brown. Boil the rice with the whole spices and salt until 70% done. Layer the chicken, fried onions, and rice in a pot. Sprinkle the powdered spices and pour in enough water to cover the rice. Cover the pot and cook on low heat for 20-25 minutes. Serve hot.",
+        "rating": 4.5
+        } 
+    }
+]
+  
